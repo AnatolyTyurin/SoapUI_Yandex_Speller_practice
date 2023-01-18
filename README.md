@@ -1,1 +1,1 @@
-# SoapUI_yandex_speller_practise
+# SoapUI_Yandex_speller_practise
